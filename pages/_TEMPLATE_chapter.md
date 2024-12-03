@@ -7,42 +7,55 @@ page_id: <!---REPLACE THIS with a shortened page name. The shortened page name s
 ---
 
 # [Topic]
-Last updated: [D Month, Year]
+Last updated: [D Month, Year] <!-- Remove this??? -->
 
-<!-- should contain: relevance/important in generic sense + what do you get out of the chapter - max 6 sentences  -->
+<!-- Summary of the topic
+Pointers for writing this section:
+* This section outlines the broader relevance of the chapter’s concepts.
+* It highlights the key takeaways readers can expect to gain from the chapter.
+* Indication of length: two brief paragraphs. 
+-->
 
-## Content
-1. [Keywords](#keywords)
-2. [Context](#context)
-3. [Models](#models)
-4. [Cheatsheet](#cheatsheet)
-5. [Community examples](#community-examples)
-
-## Keywords
-<!-- keywords separated by commas -->
 
 ## Context
-<!-- part 1 - background - what do you need to know to read the info below - history, recent developments -->
-<!-- part 2- extra info/deepdive on importance/relevance, impact for broader society -  how does what you learn here impact your work as data steward  -->
+<!-- Pointers for writing this section:
+* This section provides the context needed to understand the chapter, including relevant history and recent developments.
+* It highlights the importance, broader societal impact, and how the topic influences the work of data stewards.
+* It explores various perspectives for engaging with the topic, such as building something new, improving existing practices, or participating to learn and grow.
+Indication of length: between a half and one page.
+-->
 
 ## Models
-<!-- What should go here: Successfully established/well-used and applied, published examples, like an article - criteria: should be practically applicable so we can make it into thingies in the cheatsheet -->
-<!-- What should we do with it, in the text: Explain theory, goal behind and practical step/how applied models - max 10 sentences with links and clear substructure/header -->
-<!-- Structure idea:
-  Model 1 title
-  Foundations
-  Goal
-  Practical application
-If possible: graphical representation - RDMkit tool assemblies example to structure -->
+<!-- Pointers for writing this section:
+* This section presents well-established, and widely used models or frameworks, supported by published examples like articles.
+* Content should focus on explaining the theory, the intended goal, and how the models can be practically applied.
+* The following structure is used: 
+  * Model name/title
+  * Foundations – Briefly introduce the underlying theory or principles.
+  * Goal – Describe the purpose or objective of the model.
+  * Practical application – Outline how the model is implemented, with examples and links for reference.
+* Indication of length: up to 10 sentences with a clear substructure and links. Where possible, include graphical representations to enhance understanding.
+* Discussion: If no model exists, consider the relevance of this chapter to the handbook. The absence of a model might indicate the need for reassessment of the chapter's scope.
+-->
+
 
 
 ## Cheatsheet
-<!-- Pointers for writing this section: 
-* The cheatsheet section should contain tips, tricks, do’s and dont’s
-* Aim is to help readers apply the topic and models in their context
-* Level of granularity: very generic, with applying the steps of the models, if possible with links [more granularity can be found in next section of best practices]
-* Example for this chapter: The cheatsheet should focus on general categories like meeting preparation, clear structure, etc. Tips will be applied, and links to community or best practices like agenda, rotating chairs, meeting notes etc. will be added in the best practices section
-* Add external links for each tip. Loosely, but if a tip aligns with a specific model or step, make the connection. Links should reference higher-level models or steps, not specific community or best practices, which will be covered in the next section. -->
+<!-- Pointers for writing this section:
+* The cheatsheet section provides essential tips, tricks, do's, and don'ts to help apply the chapter's concepts.
+* It offers broad, actionable advice on topics like meeting preparation and maintaining structure.
+* Include links to relevant models or steps to support easy application.
+* Tips should reference higher-level models or steps, rather than specific community examples. For more detailed guidance, refer to the next section on best practices, which includes additional resources such as agenda templates, rotating chair strategies, and meeting note formats.
+-->
+
+## Best practices
+<!-- Pointers for writing this section:
+* This section is divided into two subsections: Profiles of established communities as well as tips and tricks from the experiences of the given community.
+* The section contains thus a profile of the community exhibiting general information of the introduced community, its aims, goals, and structure. 
+* Included are  links to further retrieve information on said communities.
+* Tips connected to each community reflect the experiences done by the community in regard to community establishment, maintenance, and content 
+-->
+
 
 ## Community examples
 
