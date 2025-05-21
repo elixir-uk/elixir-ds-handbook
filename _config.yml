@@ -25,6 +25,7 @@ gtag:
 
 exclude:
   - README.md
+  - */site_template/
 
 defaults:
   -
