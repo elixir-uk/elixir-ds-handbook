@@ -1,19 +1,6 @@
 title: About
 title_url: /about
 subitems:
-  - title: Community
-    subitems:
-      - title: Fellows
-        url: /fellows
-      - title: Mentors
-        url: /mentors
-      - title: Coordination team
-        url: /coordination-team
-
-  - title: Support & funding
-    url: /support
-  - title: Contact
-    url: /contact
   - title: Accessibility
     url: /accessibility
   - title: Privacy

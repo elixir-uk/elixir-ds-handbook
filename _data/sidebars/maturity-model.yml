@@ -1,0 +1,72 @@
+title: Maturity Model
+title_url: /maturity-model
+subitems:
+  - title: Strategy and Sustainability
+    url: /strategy
+    subitems:
+      - title: Defined
+        url: /strategy-defined
+      - title: Personnel
+        url: /strategy-personnel
+      - title: Defined
+        url: /strategy-defined
+      - title: Goals & KPIs
+        url: /strategy-goals-kpis
+      - title: Communication of strategy
+        url: /strategy-communication
+      - title: Governance and implementation
+        url: /strtaegy-governance-implementation
+      - title: Adherence
+        url: /strategy-governance-adherence
+      - title: Funding
+        url: /strategy-funding
+      - title: Policies
+        url: /strategy-policies
+  - title: Legal and governance
+    description:
+    url: /legal
+    subitems:
+      - title: Ethics
+        url: /legal-ethics
+      - title: Framework
+        url: /legal-framework
+      - title: GDPR
+        url: /legal-gdpr
+      - title: Security
+        url: /legal-security
+  - title: Support
+    description:
+    url: /support
+    subitems:
+      - title: Training
+        url: /support-training
+      - title: Training materials
+        url: /support-training-materials
+      - title: Services
+        url: /support-services
+      - title: Guidelines for researchers
+        url: /ssupport-guidelines-researchers
+      - title: Network
+        url: /support-network
+      - title: Communication
+        url: /support-communication
+  - title: Data
+    description:
+    url: /data
+    subitems:
+      - title: Accessibility
+        url: /data-accessibility
+      - title: Assets
+        url: /data-assets
+      - title: DMP
+        url: /data-dmp
+      - title: Infrastructure
+        url: /data-infrastructure
+      - title: Publication
+        url: /data-publication
+      - title: RDM standards
+        url: /data-standards-rdm
+      - title: Documentation of standards
+        url: /data-standards-documentation
+      - title: Resources
+        url: /data-resources

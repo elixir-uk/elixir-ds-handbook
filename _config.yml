@@ -44,18 +44,18 @@ defaults:
     scope:
       path: "pages/case-studies"
     values:
-      sidebar: case_studies
-      type: case_studies
+      sidebar: case-studies
+      type: case-studies
   -
     scope:
-      path: "pages/case-studies/elixir-uk-fellowship"
+      path: "pages/case-studies/uk"
     values:
-      type: elixir_uk_fellowship
+      type: uk
   -
     scope:
-      path: "pages/case-studies/dtls-interest-group"
+      path: "pages/case-studies/nl"
     values:
-      type: dtls_interest_group
+      type: nl
   -
     scope:
       path: "pages/guidelines"
@@ -64,14 +64,40 @@ defaults:
       sidebar: guidelines
   -
     scope:
-      path: "pages/guidelines/ds-maturity"
+      path: "pages/guidelines/community"
     values:
-     type: maturity
+     type: guidelines-community
   -
     scope:
-      path: "pages/guidelines/professionalising-ds"
+      path: "pages/guidelines/rdm-strategy"
     values:
-     type: professionalising
+     type: rdm-strategy
+  -
+    scope:
+      path: "pages/maturity-model"
+    values:
+      sidebar: maturity-model
+      type: maturity-model
+  -
+    scope:
+      path: "pages/maturity-model/strategy"
+    values:
+      type: mm-strategy
+  -
+    scope:
+      path: "pages/maturity-model/legal"
+    values:
+      type: mm-legal
+  -
+    scope:
+      path: "pages/maturity-model/data"
+    values:
+      type: mm-data
+  -
+    scope:
+      path: "pages/maturity-model/support"
+    values:
+      type: mm-support
 
 plugins:
   - jemoji

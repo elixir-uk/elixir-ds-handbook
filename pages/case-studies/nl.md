@@ -1,5 +1,5 @@
 ---
-title: ELIXIR UK Fellowship
+title: NL
 description: 
 contributors: 
 page_id: 
@@ -12,4 +12,4 @@ training:
     url: 
 ---
 
-{% include section-navigation-tiles.html type="elixir_uk_fellowship" %}
+{% include section-navigation-tiles.html type="nl" %}

@@ -1,0 +1,15 @@
+title: Case studies
+title_url: /case-studies
+subitems:
+  - title: Netherlands
+    description: 
+    url: /nl
+    subitems:
+      - title: DTLS interest Group
+        url: /dtls
+  - title: United Kingdom
+    description:
+    url: /uk
+    subitems:
+      - title: ELIXIR-UK Fellowship
+        url: /elixir-uk-fellowship
